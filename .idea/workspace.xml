@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32a41728-2ff6-4cd2-9676-3ee09bb6d82c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vz0sjHGzWg79zLlVb8smR8NH6H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle5-jadi-the-worlds-ahead/Django/jwitter/jwitter/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.my_project (1)">
+    <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Password-Generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project/database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_project (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Password-Generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project/my_project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project/my_project/my_project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Password-Generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project/my_project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q3_truecar_site" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Password-Generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle4-jadi-web-scraping" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle4-jadi-web-scraping/q3_truecar_site.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Password-Generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle5-jadi-the-worlds-ahead/ML" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle5-jadi-the-worlds-ahead/ML/tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_project (1)" />
+        <item itemvalue="Python.my_project" />
+        <item itemvalue="Python.database" />
+        <item itemvalue="Python.tree" />
+        <item itemvalue="Python.q3_truecar_site" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a41728-2ff6-4cd2-9676-3ee09bb6d82c" name="Default Changelist" comment="" />
+      <created>1627549818788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627549818788</updated>
+      <workItem from="1627549822600" duration="1700000" />
+      <workItem from="1627556328892" duration="1143000" />
+      <workItem from="1627565576482" duration="11225000" />
+      <workItem from="1627592832935" duration="1545000" />
+      <workItem from="1627633813141" duration="2382000" />
+      <workItem from="1627675513304" duration="2786000" />
+      <workItem from="1627724975317" duration="19952000" />
+      <workItem from="1627812661821" duration="2899000" />
+      <workItem from="1627890650829" duration="6447000" />
+      <workItem from="1629537800418" duration="2507000" />
+      <workItem from="1629879494135" duration="4113000" />
+      <workItem from="1630139742391" duration="493000" />
+      <workItem from="1630140652067" duration="16498000" />
+      <workItem from="1630229721393" duration="603000" />
+      <workItem from="1630307545125" duration="1675000" />
+      <workItem from="1630350222080" duration="6714000" />
+      <workItem from="1630428730763" duration="4883000" />
+      <workItem from="1630500107192" duration="9565000" />
+      <workItem from="1630584800975" duration="13670000" />
+      <workItem from="1630663577049" duration="27776000" />
+      <workItem from="1630740323826" duration="21396000" />
+      <workItem from="1630785086257" duration="8265000" />
+      <workItem from="1630821100800" duration="10542000" />
+      <workItem from="1630931239379" duration="11161000" />
+      <workItem from="1631526935235" duration="2548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="227" key="#Notifications" timestamp="1630140263973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="227" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1630140263973" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630792242771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1630792242771" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1631541970854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1631541970854" />
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1630965588563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1630965588563" />
+    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1630965588563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1630965588563" />
+    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1630965588563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1630965588563" />
+    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1630965588563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1630965588563" />
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1630965588564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1630965588564" />
+    <state width="1323" height="180" key="GridCell.Tab.1.center" timestamp="1630965588564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1630965588564" />
+    <state width="1323" height="180" key="GridCell.Tab.1.left" timestamp="1630965588563">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1630965588563" />
+    <state width="1323" height="180" key="GridCell.Tab.1.right" timestamp="1630965588564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1630965588564" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1627728110868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1627728110868" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1630832966911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1630832966911" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project/database.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Password_Generator$my_project__1_.coverage" NAME="my_project (1) Coverage Results" MODIFIED="1630940997723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project/my_project" />
+    <SUITE FILE_PATH="coverage/Password_Generator$Scientific_Calculator.coverage" NAME="Scientific Calculator Coverage Results" MODIFIED="1627730711659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../GUI" />
+    <SUITE FILE_PATH="coverage/Password_Generator$Password_Generator.coverage" NAME="Password_Generator Coverage Results" MODIFIED="1627731679517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Password_Generator$q3_truecar_site.coverage" NAME="q3_truecar_site Coverage Results" MODIFIED="1630527108054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle4-jadi-web-scraping" />
+    <SUITE FILE_PATH="coverage/Password_Generator$database.coverage" NAME="database Coverage Results" MODIFIED="1630849566540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project" />
+    <SUITE FILE_PATH="coverage/Password_Generator$my_project.coverage" NAME="my_project Coverage Results" MODIFIED="1630850022265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle6-project" />
+    <SUITE FILE_PATH="coverage/Password_Generator$tree.coverage" NAME="tree Coverage Results" MODIFIED="1630683232237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../jadi-faradars/Advanced Course/fasle5-jadi-the-worlds-ahead/ML" />
+    <SUITE FILE_PATH="coverage/Password_Generator$Stn_Pap_Sci_Game.coverage" NAME="Stn_Pap_Sci_Game Coverage Results" MODIFIED="1627737541668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Stone-Paper-Scissor-Game" />
+  </component>
+</project>
